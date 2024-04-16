@@ -170,23 +170,23 @@
 }
 .steps-take-back-1 i{
     bottom: 4px;
-    right: 7px;
+    right: 6px;
 }
 .steps-take-back-2 i{
-    bottom: 4px;
-    right: 7px;
+    bottom: 3px;
+    right: 6px;
 }
 .steps-take-back-3 i{
     bottom: 3px;
-    right: 7px;
+    right: 6px;
 }
 .steps-take-back-4 i{
-    bottom: 4px;
-    right: 7px;
+    bottom: 3px;
+    right: 6px;
 }
 .steps-take-back-5 i{
     bottom: 4px;
-    right: 6px;
+    right: 5px;
 }
 .modal-header{
   position: sticky;
