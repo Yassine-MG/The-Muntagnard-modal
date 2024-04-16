@@ -221,7 +221,7 @@
 }
 .title-trade > p{
   font-family: 'Fractul', sans-serif !important;
-  font-size: 17px;
+/*   font-size: 17px; */
   line-height: 1.5 ;
   text-align:justify;
   color: #2e2a39bf;
